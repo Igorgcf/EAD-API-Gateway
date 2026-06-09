@@ -1,1 +1,0 @@
-{"@timestamp":"2026-06-09T21:03:29.274Z","log.level": "INFO","message":"HV000001: Hibernate Validator 8.0.1.Final", "ecs.version": "1.2.0","service.name":"ead-api-gateway","service.version":"1.0.0","service.environment":"dev","event.dataset":"ead-api-gateway","process.thread.name":"background-preinit","log.logger":"org.hibernate.validator.internal.util.Version"}
